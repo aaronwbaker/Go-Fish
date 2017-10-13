@@ -2,7 +2,7 @@
 ###### v.1.0
 
 ###### Description:
-This is standalone form application that lets you play a game of Go Fish against the computer.
+This is a standalone form application that lets you play a game of Go Fish against the computer.
 
 ###### Getting started:
 Download the Go Fish.exe file to run the app on your local system.  Or, download the contents of the Go Fish source folder
