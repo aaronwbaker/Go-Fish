@@ -1,4 +1,5 @@
-## Go-Fish ###### v.1.0
+## Go-Fish 
+###### v.1.0
 
 ###### Description:
 This is standalone form application that lets you play a game of Go Fish against the computer.
